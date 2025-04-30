@@ -1,0 +1,4 @@
+- 👋 Hi, I’m studying in ZGU, typical python-enjoyer
+- 🌱 I’m currently learning C#, Docker, C++
+- 📫 How to reach me @laamorel(TG)
+- ⚡ Fun fact: python is alredy learned)
