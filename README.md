@@ -5,14 +5,14 @@
 ### Матвей / Matvey
 
 **Выберите язык / Choose language:**  
-[![Russian](https://img.shields.io/badge/Русский-0077FF?style=for-the-badge&logo=google-translate&logoColor=white)](#русская-версия)
-[![English](https://img.shields.io/badge/English-0077FF?style=for-the-badge&logo=google-translate&logoColor=white)](#english-version)
+[![Russian](https://img.shields.io/badge/Русский-0077FF?style=for-the-badge&logo=google-translate&logoColor=white)](#russian)
+[![English](https://img.shields.io/badge/English-0077FF?style=for-the-badge&logo=google-translate&logoColor=white)](#english)
 
 ---
 
 </div>
 
-## Русская версия {#русская-версия}
+## Русская версия {#russian}
 
 👋 Привет! Меня зовут Матвей.
 
@@ -49,7 +49,7 @@
 
 ---
 
-## English Version {#english-version}
+## English Version {#english}
 
 👋 Hi there! I'm Matvey.
 
