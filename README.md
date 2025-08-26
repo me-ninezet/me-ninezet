@@ -4,7 +4,7 @@
 
 </div>
 
-[![Russian](https://img.shields.io/badge/Russian-0077FF?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/me-ninezet/me-ninezet-russian)
+[![View in Russian](https://img.shields.io/badge/View_in_Russian-2CA5E0?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0077FF)](https://github.com/me-ninezet/me-ninezet-russian)
 
 
 👋 Hi there! I'm Matvey.
