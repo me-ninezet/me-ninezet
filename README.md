@@ -27,7 +27,7 @@
 `Aiogram` `FastAPI` `Django` `Flet` `Requests` `Pystray` `PyAutoGUI` `OpenAI API`
 
 **Свяжись со мной:**  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-plain.svg" width="30" height="30"/>](https://t.me/me_ninezet)
+[![Telegram](https://img.shields.io/badge/Telegram-%40me--ninezet-blue?style=flat&logo=telegram)](https://t.me/me_ninezet) 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vk/vk-original.svg" width="30" height="30"/>](https://vk.com/me_ninezet)
 
 *Код — это поэзия, которую понимают компьютеры. 🚀*
