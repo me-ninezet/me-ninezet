@@ -2,11 +2,9 @@
 
 # 👋 Welcome!
 
-[![Russian](https://img.shields.io/badge/Русский-0077FF?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/me-ninezet/me-ninezet-russian)
-
----
-
 </div>
+
+[![Russian](https://img.shields.io/badge/Русский-0077FF?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/me-ninezet/me-ninezet-russian)
 
 👋 Hi there! I'm Matvey.
 
