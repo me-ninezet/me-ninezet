@@ -1,12 +1,11 @@
 <div align="center">
 
 # 👋 Welcome!
-[![Russian Version](https://img.shields.io/badge/🇷🇺_Русская_версия-2CA5E0?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/me-ninezet/me-ninezet-russian)
+
 </div>
 
-[![Russian Version](https://img.shields.io/badge/🇷🇺_Русская_версия-2CA5E0?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0077FF)](https://github.com/me-ninezet/me-ninezet-russian)
+[![Russian Version](https://img.shields.io/badge/Russian version-2CA5E0?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0077FF)](https://github.com/me-ninezet/me-ninezet-russian)
 
-[![Russian](https://img.shields.io/badge/Русский-0077FF?style=for-the-badge&logo=google-translate&logoColor=white)](https://github.com/me-ninezet/me-ninezet-russian)
 
 👋 Hi there! I'm Matvey.
 
