@@ -39,6 +39,7 @@
 </div>
 
 **Key libraries & APIs:**  
+
 `Aiogram` `FastAPI` `Django` `Flet` `Pystray` `PyAutoGUI` `OpenAI API`
 
 **Connect with me:**  
