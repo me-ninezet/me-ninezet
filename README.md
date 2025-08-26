@@ -1,25 +1,22 @@
-👋 Привет! Я Матвей, me-ninezet
+👋 Привет! Меня зовут Матвей.
 
-❄️ Cтудент Заполярного Государственного Университета
-❄️ Люблю превращать сложные задачи в элегантный код
+❄️ Я студент Заполярного Государственного Университета, начинающий Python-разработчик
+⚙️ Люблю превращать сложные задачи в элегантный и функциональный код.
 
 **Чем я занимаюсь:**
-✨ Пишу Telegram-ботов — в том числе сложные системы
-✨ Автоматизирую всё, что можно, чтобы упростить рутину
-✨ Изучаю мобильную и desktop-разработку, пробую создавать кроссплатформенные приложения
-✨ Всегда открыт к новым вызовам!
+✨ Разрабатываю умных Telegram-ботов с интеграцией AI
+✨ Создаю бэкенд на Django и FastAPI
+✨ Пишу скрипты для автоматизации и desktop-приложения
+✨ Изучаю мобильную разработку (Kotlin)
+✨ Работаю с API нейросетей (OpenAI, Yandex GPT и др.)
 
 **Мой стек и инструменты:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-**Любимые библиотеки:**  
-`Aiogram` `Flet` `Requests` `PyAutoGUI` `PyStery` `BeautifulSoup4`
+**Ключевые библиотеки:**  
+`Aiogram` `FastAPI` `Django` `Flet` `Requests` `Pystray` `PyAutoGUI` `OpenAI API`
 
 **Свяжись со мной:**  
-[![Telegram](https://img.shields.io/badge/Telegram-me--ninezet-blue?style=for-the-badge&logo=telegram)](https://t.me/me_ninezet)
-[![VK](https://img.shields.io/badge/VK-me--ninezet-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/me_ninezet)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-plain.svg" width="30" height="30"/>](https://t.me/laamorel)
 
 *Код — это поэзия, которую понимают компьютеры. 🚀*
